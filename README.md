@@ -1,2 +1,5 @@
 # ProjectRemake
-Remake del Ghost 'n Goblins (verisó arcade) per a l'assignatura de Metodologies Àgils
+Projecte creat per:
+*Adrià Biarnés
+*Pau Blanes
+*Zheng Binrong
