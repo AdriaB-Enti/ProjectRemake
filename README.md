@@ -1,8 +1,8 @@
 # ProjectRemake
 Projecte creat per:
 
-# *Adrià Biarnés
+*Adrià Biarnés
 
-# *Pau Blanes
+*Pau Blanes
 
-# *Zheng Binrong
+*Zheng Binrong
